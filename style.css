@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+}
+
+footer{
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.utilities{
+    background-color: #333333;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 140px;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.logo{
+    height: 100%;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+
+.link{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.link a{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.social{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 150px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.fol-us{
+    color: white;
+    margin-bottom: 20px;
+}
+
+.fol-us p{
+    margin: 0;
+}
+
+.social-link{
+    display: flex;
+}
+
+.web-host{
+    color: white;
+    margin-top: 20px;
+    font-size: 10px;
+}
+
+.web-host p{
+    margin: 0;
+}
+
+.giallo{
+    background-color: #f8b334;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.giallo-cont{
+    min-height: 75px;
+    max-width: 1110px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.copy{
+    font-weight: 600;
+    text-align: center;
+}
+
+.termco{
+    display: flex;
+}
+
+.term a{
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.separator{
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.cookies a{
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.euro{
+    background-color: #f1f1f1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.euro-cont{
+    min-height: 75px;
+    max-width: 1110px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.euro-info{
+    text-align: left;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
